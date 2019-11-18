@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Photo Viewer 42</string>
+    <!-- Get API key: https://api.nasa.gov/index.html#apply-for-an-api-key -->
+    <string name="api_key">lPAp1R6egljYdH3l9y3bkOD5HQWfFnFLOFqvJmAf</string>
+    <string name="main_activity_title">Daily Astronomy Photos</string>
+    <string name="change_layout_manager">Change Layout</string>
+    <string name="share_photo">Share Photo</string>
+    <string name="check_internet">There is an issue with the network connection. Please check your settings and try again.</string>
+    <string name="toast_a_backToExit">Press Back again to exit.</string>
+    <string name="image_description">Image Description</string>
+</resources>
