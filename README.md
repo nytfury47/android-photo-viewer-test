@@ -3,12 +3,7 @@ A way to present/view photos in Android
 
 Tools used:
 
-Android Studio 3.5.2
-
-Kotlin 1.3.50
-
-SDK = 29 (Min = 21)
-
+Android Studio 3.5.2, Kotlin 1.3.50, SDK = 29 (Min = 21)
 
 Reference:
 
