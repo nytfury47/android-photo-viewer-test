@@ -6,6 +6,7 @@ Using Android Studio 3.5.2, Target SDK = 29 (Min = 21)
 Reference:
 
 https://www.raywenderlich.com/1560485-android-recyclerview-tutorial-with-kotlin
+
 https://api.nasa.gov/index.html#apply-for-an-api-key
 
 ---
